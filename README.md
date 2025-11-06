@@ -9,3 +9,6 @@ https://docs.google.com/document/d/1aug5y9aDZEzkr1EKQk3S0tYUtmgnkpH5kKgTq79oi8o/
 https://colab.research.google.com/drive/1-H0a4bR6E0QOy6ZzYvrzNwEP4pp25GAs?usp=sharing
 # Тестирование
 https://docs.google.com/document/d/1XYFxsuZWkq6_9rpYQNi4aZ-uB5g71VvhG6vC3Tbvdsc/edit?usp=sharing
+# Зачет
+https://docs.google.com/document/d/1D_tIzkob-s6vDW85zCCIU0NCY3aQ_q1YITP36lOKx84/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1ESK5dp_pmhFxAtqQcZXlvfKelTeCZB13v2Rz9NCoHO0/edit?usp=sharing
